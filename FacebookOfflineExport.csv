@@ -1,0 +1,4 @@
+email,phone,event_time,event_name,currency,value,order_id,content_type,contents,execution_id
+johndoe@gmail.com,12312,1715302704,Purchase,USD,20,BusinessDate=2023-06-01&StationId=1&StoreId=1188&TransactionId=7208,product,"[{ id: ""810547695"", quantity: 1, price: 11.9900 }, { id: ""810409941"", quantity: 1, price: 3.9900 }]",1.69E+12
+maryjane@gmail.com,12312,1715302714,Purchase,USD,40,BusinessDate=2023-06-01&StationId=1&StoreId=1188&TransactionId=7208,product,"[{ id: ""810547695"", quantity: 1, price: 11.9900 }, { id: ""810409941"", quantity: 1, price: 3.9900 }]",1.69E+12
+harveyspectre@gmail.com,12312,1715302724,Purchase,USD,60,BusinessDate=2023-06-01&StationId=1&StoreId=1188&TransactionId=7208,product,"[{ id: ""810547695"", quantity: 1, price: 11.9900 }, { id: ""810409941"", quantity: 1, price: 3.9900 }]",1.69E+12
